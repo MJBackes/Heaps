@@ -44,6 +44,5 @@ namespace Heap_Generic_
                 RestoreDown(swapIndex);
             }
         }
-
     }
 }
